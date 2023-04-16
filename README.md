@@ -1,4 +1,4 @@
-# :rocket:Shadowrocket config and Modules    
+# :rocket:Shadowrocket config and Modules [EN]   
 
   
 
@@ -7,14 +7,14 @@
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://ybnet.ga/config/shadowrocket_basic.conf)使用，避免冗余  
 * #### ！！！若某个模块时而生效时而失效，请检查其他模块的主机名前是否添加了%APPEND%，没有添加会导致导致其他模块失效。本仓库模块均添加了%APPEND%
-* #### [模块直装地址](https://ybnet.ga/shadowrocket.html)
+* #### [Modules installation link](https://ybnet.ga/shadowrocket.html)
 
 
 
   
 | :octocat:Module                      | :link:Link                                                    | :pushpin:Description                                      |
 | :----------------------------------- | :------------------------------------------------------------ | :-------------------------------------------------------- |
-| :white_check_mark:AccuWeather Unlock | [:link:Link](https://ybnet.ga/module/accu.module)             | 天气app                                                     |
+| :white_check_mark:AccuWeather Unlock | [:link:Link](https://ybnet.ga/module/accu.module)             | Weather app                                               |
 | :white_check_mark:AdBlock            | [:link:Link](https://ybnet.ga/module/AdBlock.module)          | 整体去广告                                                     |
 | :white_check_mark:alarmy             | [:link:Link](https://ybnet.ga/module/alarmy.module)           | 使命闹钟                                                      |
 | :white_check_mark:aloha              | [:link:Link](https://ybnet.ga/module/aloha.module)            | VPN隐私浏览器                                                  |
@@ -298,7 +298,7 @@
 </details>
 
 <details>
-  <summary>:key:配置使用教程</summary>
+  <summary>:key:How to Use Configuration</summary>
 
 [配置文件链接](https://ybnet.ga/config/shadowrocket_basic.conf)   
 [更多教程](https://ybnet.ga/manual.html)
@@ -342,7 +342,7 @@
 </details>
 
  <details>
-  <summary>:key:模块使用教程</summary>
+  <summary>:key:How to Use Modules</summary>
 
 ### :point_down:打开小火箭——点击配置——进入模块  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
@@ -355,14 +355,14 @@
 </details>
 
 <details>
-  <summary>:key:Substore脚本</summary>  
+  <summary>:key:Substore Script</summary>  
   
-|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
-|--|--|--|
-|:white_check_mark:脚本操作：重命名|[:link:Link](https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
-|:white_check_mark:脚本过滤：筛选80 443端口|[:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本操作：修改host混淆|[:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+| :octocat:Sub-Store Script                        | :link:Link                                                                                                         | :pushpin:操作说明                            |
+| :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------- |
+| :white_check_mark:脚本操作：重命名                       | [:link:Link](https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js#input=zh&output=zh&airport=你需要的机场名) | SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名） |
+| :white_check_mark:脚本过滤：筛选80 443端口                | [:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)                            | SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接             |
+| :white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点) | [:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)                           | SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接             |
+| :white_check_mark:脚本操作：修改host混淆                  | [:link:Link](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)                             | SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）     |
 </details>
 
 
@@ -387,7 +387,7 @@
 
 
  <details>
-  <summary>:key:申明</summary>
+  <summary>:key:Declaration</summary>
 :warning:Disclaimer：
 
 * Any unlock and decryption analysis scripts involved in this project are for resource sharing and learning research only and cannot guarantee their legitimacy, accuracy, completeness and validity, please judge by case.
@@ -406,7 +406,7 @@
 
 
 ### Special thanks to：
-#### Rating is not in a particular order, if there are any omissions, please remind to add：
+#### Rating is not in a particular order, if there are any omissions, please remind to add
 
 * [@ddgksf2013](https://github.com/ddgksf2013)
 
@@ -470,4 +470,4 @@
 
  </details>
 
-* ## [:link:Personal Blog](https://ybnet.ga)
+* ## [:link:deezertidal Personal Blog](https://ybnet.ga)
