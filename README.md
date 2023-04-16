@@ -12,7 +12,7 @@
 
 
   
-|:octocat:模块|:link:链接|:pushpin:说明|
+|:octocat:Module|:link:Link|:pushpin:Description|
 |--|--|--|
 |:white_check_mark:AccuWeather Unlock|[:link:Link](https://ybnet.ga/module/accu.module)|天气app
 |:white_check_mark:AdBlock|[:link:Link](https://ybnet.ga/module/AdBlock.module)|整体去广告
