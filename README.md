@@ -1,4 +1,4 @@
-# :rocket:小火箭配置文件及模块    
+# :rocket:Shadowrocket config and Modules    
 
   
 
