@@ -3,7 +3,7 @@
   
 
 <details>
-   <summary>:key:模块及说明</summary>    
+   <summary>:key:Modules & Instractions</summary>    
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://ybnet.ga/config/shadowrocket_basic.conf)使用，避免冗余  
 * #### ！！！若某个模块时而生效时而失效，请检查其他模块的主机名前是否添加了%APPEND%，没有添加会导致导致其他模块失效。本仓库模块均添加了%APPEND%
