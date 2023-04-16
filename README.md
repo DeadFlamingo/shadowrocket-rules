@@ -388,25 +388,25 @@
 
  <details>
   <summary>:key:申明</summary>
-:warning:免责声明：
+:warning:Disclaimer：
 
-* 本项目涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+* Any unlock and decryption analysis scripts involved in this project are for resource sharing and learning research only and cannot guarantee their legitimacy, accuracy, completeness and validity, please judge by case.
 
-* 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, 本项目对于由此引起的任何隐私泄漏或其他后果概不负责.
+* Any user who indirectly uses scripts, including but not limited to the creation of VPS or the dissemination of certain acts in violation of national laws or regulations, is not responsible for any privacy leaks or other consequences arising therefrom.
 
-* 请勿将Script项目的任何内容用于商业或非法目的，否则后果自负.
+* Do not use any content of a Script item for commercial or illegal purposes.
 
-* 如果任何单位或个人认为该项目的脚本可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关脚本.
+* If any unit or individual believes that the project's script may violate its rights, it shall promptly notify and provide proof of identity, proof of ownership, and we will delete the relevant script upon receipt of the authentication file.
 
-* 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害.
+* No responsibility for any scripting issues, including, but not limited to, any loss or damage caused by any scripting error.
 
-* 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
+* You must remove the above completely from your computer or phone within 24 hours of downloading.
 
-* 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明.
+* Anyone who views this item in any way or who directly or indirectly uses any script for the script project should read this statement carefully. We reserve the right to change or supplement this disclaimer at any time. Once you have used and copied the rules of any associated script or script item, you are deemed to have accepted this disclaimer.
 
 
-### 特别感谢：
-#### 排名不分先后,如有遗漏请提醒补充：
+### Special thanks to：
+#### Rating is not in a particular order, if there are any omissions, please remind to add：
 
 * [@ddgksf2013](https://github.com/ddgksf2013)
 
@@ -469,6 +469,5 @@
 * [@lowking](https://github.com/lowking/Scripts)
 
  </details>
-****
 
-* ## [:link:个人博客](https://ybnet.ga)
+* ## [:link:Personal Blog](https://ybnet.ga)
