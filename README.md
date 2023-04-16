@@ -15,44 +15,44 @@
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
 |:white_check_mark:accuweather解锁|[:link:链接地址](https://ybnet.ga/module/accu.module)|天气app
-|:white_check_mark:AdBlock|[:link:链接地址](https://ybnet.ga/module/AdBlock.module)|整体去广告
-|:white_check_mark:alarmy|[:link:链接地址](https://ybnet.ga/module/alarmy.module)|使命闹钟
-|:white_check_mark:aloha|[:link:链接地址](https://ybnet.ga/module/aloha.module)|VPN隐私浏览器
-|:white_check_mark:爱美剧|[:link:链接地址](https://ybnet.ga/module/amj.module)|影视app 去广告+解锁部分会员功能
-|:white_check_mark:Background Eraser|[:link:链接地址](https://ybnet.ga/module/aosoft.module)|抠图app
-|:white_check_mark:appraven|[:link:链接地址](https://ybnet.ga/module/appraven.module)|应用市场
-|:white_check_mark:audiomack|[:link:链接地址](https://ybnet.ga/module/audiomack.module)|音乐相关app
-|:white_check_mark:b612相机|[:link:链接地址](https://ybnet.ga/module/b612.module)|相机编辑app
-|:white_check_mark:百度云倍速|[:link:链接地址](https://ybnet.ga/module/baiducloud.sgmodule)|百度云倍率播放
-|:white_check_mark:白描|[:link:链接地址](https://ybnet.ga/module/baimiao.module)|OCR扫描app
-|:white_check_mark:bazaart|[:link:链接地址](https://ybnet.ga/module/bazaart.module)|照片编辑
-|:white_check_mark:布丁锁屏|[:link:链接地址](https://ybnet.ga/module/bdsp.module)|桌面美化类
-|:white_check_mark:bedtime fan|[:link:链接地址](https://ybnet.ga/module/bedtime-fan.module)|助眠app
-|:white_check_mark:bilibili HD|[:link:链接地址](https://ybnet.ga/module/bili.module)|哔哩高清解锁
-|:white_check_mark:bilibili NoAD|[:link:链接地址](https://ybnet.ga/module/biliad.module)|bilibili去广告
-|:white_check_mark:波点音乐|[:link:链接地址](https://ybnet.ga/module/Bodian.module)|波点音乐去广告
-|:white_check_mark:BOOM|[:link:链接地址](https://ybnet.ga/module/boom.module)|音乐均衡器
-|:white_check_mark:boxjs|[:link:链接地址](https://ybnet.ga/module/boxjs.sgmodule)|含签到脚本
-|:white_check_mark:财新文章解锁|[:link:链接地址](https://ybnet.ga/module/caixin.module)|财新会员
-|:white_check_mark:彩云天气|[:link:链接地址](https://ybnet.ga/module/caiyun.module)|彩云天气SVIP
-|:white_check_mark:计算器HD|[:link:链接地址](https://ybnet.ga/module/calculator.module)|计算器HD会员
-|:white_check_mark:扫描全能王|[:link:链接地址](https://ybnet.ga/module/camscanner.sgmodule)|扫描全能王会员
-|:white_check_mark:克拉壁纸|[:link:链接地址](https://ybnet.ga/module/clarity.module)|桌面美化类
-|:white_check_mark:colorwidgets|[:link:链接地址](https://ybnet.ga/module/colorwidgets.module)|桌面小组件
-|:white_check_mark:dailyyoga|[:link:链接地址](https://ybnet.ga/module/dailyyoga.module)|每日瑜伽
-|:white_check_mark:大蓝鲸|[:link:链接地址](https://ybnet.ga/module/dalanjing.module)|视听互动
-|:white_check_mark:darkroom|[:link:链接地址](https://ybnet.ga/module/darkroom.module)|照片编辑
-|:white_check_mark:读书笔记|[:link:链接地址](https://ybnet.ga/module/dsbj.module)|笔记类
-|:white_check_mark:第一弹|[:link:链接地址](https://ybnet.ga/module/dyd.module)|二次元游戏综合社区
-|:white_check_mark:儿哥点点|[:link:链接地址](https://ybnet.ga/module/egdd.module)|幼儿类
-|:white_check_mark:ellabook|[:link:链接地址](https://ybnet.ga/module/ellabook.module)|幼儿类
-|:white_check_mark:emby|[:link:链接地址](https://ybnet.ga/module/emby.sgmodule)|Emby解锁
-|:white_check_mark:emmo|[:link:链接地址](https://ybnet.ga/module/emmo.module)|笔记类
-|:white_check_mark:fabulous|[:link:链接地址](https://ybnet.ga/module/fabulous.module)|健康类
-|:white_check_mark:番茄小说|[:link:链接地址](https://ybnet.ga/module/fanqie.module)|番茄小说去广告
-|:white_check_mark:fantastical|[:link:链接地址](https://ybnet.ga/module/fantastical.module)|日历类
-|:white_check_mark:fimo|[:link:链接地址](https://ybnet.ga/module/fimo.module)|相机类
-|:white_check_mark:ft中文网|[:link:链接地址](https://ybnet.ga/module/ft.module)|财经类
+|:white_check_mark:AdBlock|[:link:Link](https://ybnet.ga/module/AdBlock.module)|整体去广告
+|:white_check_mark:alarmy|[:link:Link](https://ybnet.ga/module/alarmy.module)|使命闹钟
+|:white_check_mark:aloha|[:link:Link](https://ybnet.ga/module/aloha.module)|VPN隐私浏览器
+|:white_check_mark:爱美剧|[:link:Link](https://ybnet.ga/module/amj.module)|影视app 去广告+解锁部分会员功能
+|:white_check_mark:Background Eraser|[:link:Link](https://ybnet.ga/module/aosoft.module)|抠图app
+|:white_check_mark:appraven|[:link:Link](https://ybnet.ga/module/appraven.module)|应用市场
+|:white_check_mark:audiomack|[:link:Link](https://ybnet.ga/module/audiomack.module)|音乐相关app
+|:white_check_mark:b612相机|[:link:Link](https://ybnet.ga/module/b612.module)|相机编辑app
+|:white_check_mark:百度云倍速|[:link:Link](https://ybnet.ga/module/baiducloud.sgmodule)|百度云倍率播放
+|:white_check_mark:白描|[:link:Link](https://ybnet.ga/module/baimiao.module)|OCR扫描app
+|:white_check_mark:bazaart|[:link:Link](https://ybnet.ga/module/bazaart.module)|照片编辑
+|:white_check_mark:布丁锁屏|[:link:Link](https://ybnet.ga/module/bdsp.module)|桌面美化类
+|:white_check_mark:bedtime fan|[:link:Link](https://ybnet.ga/module/bedtime-fan.module)|助眠app
+|:white_check_mark:bilibili HD|[:link:Link](https://ybnet.ga/module/bili.module)|哔哩高清解锁
+|:white_check_mark:bilibili NoAD|[:link:Link](https://ybnet.ga/module/biliad.module)|bilibili去广告
+|:white_check_mark:波点音乐|[:link:Link](https://ybnet.ga/module/Bodian.module)|波点音乐去广告
+|:white_check_mark:BOOM|[:link:Link](https://ybnet.ga/module/boom.module)|音乐均衡器
+|:white_check_mark:boxjs|[:link:Link](https://ybnet.ga/module/boxjs.sgmodule)|含签到脚本
+|:white_check_mark:财新文章解锁|[:link:Link](https://ybnet.ga/module/caixin.module)|财新会员
+|:white_check_mark:彩云天气|[:link:Link](https://ybnet.ga/module/caiyun.module)|彩云天气SVIP
+|:white_check_mark:计算器HD|[:link:Link](https://ybnet.ga/module/calculator.module)|计算器HD会员
+|:white_check_mark:扫描全能王|[:link:Link](https://ybnet.ga/module/camscanner.sgmodule)|扫描全能王会员
+|:white_check_mark:克拉壁纸|[:link:Link](https://ybnet.ga/module/clarity.module)|桌面美化类
+|:white_check_mark:colorwidgets|[:link:Link](https://ybnet.ga/module/colorwidgets.module)|桌面小组件
+|:white_check_mark:dailyyoga|[:link:Link](https://ybnet.ga/module/dailyyoga.module)|每日瑜伽
+|:white_check_mark:大蓝鲸|[:link:Link](https://ybnet.ga/module/dalanjing.module)|视听互动
+|:white_check_mark:darkroom|[:link:Link](https://ybnet.ga/module/darkroom.module)|照片编辑
+|:white_check_mark:读书笔记|[:link:Link](https://ybnet.ga/module/dsbj.module)|笔记类
+|:white_check_mark:第一弹|[:link:Link](https://ybnet.ga/module/dyd.module)|二次元游戏综合社区
+|:white_check_mark:儿哥点点|[:link:Link](https://ybnet.ga/module/egdd.module)|幼儿类
+|:white_check_mark:ellabook|[:link:Link](https://ybnet.ga/module/ellabook.module)|幼儿类
+|:white_check_mark:emby|[:link:Link](https://ybnet.ga/module/emby.sgmodule)|Emby解锁
+|:white_check_mark:emmo|[:link:Link](https://ybnet.ga/module/emmo.module)|笔记类
+|:white_check_mark:fabulous|[:link:Link](https://ybnet.ga/module/fabulous.module)|健康类
+|:white_check_mark:番茄小说|[:link:Link](https://ybnet.ga/module/fanqie.module)|番茄小说去广告
+|:white_check_mark:fantastical|[:link:Link](https://ybnet.ga/module/fantastical.module)|日历类
+|:white_check_mark:fimo|[:link:Link](https://ybnet.ga/module/fimo.module)|相机类
+|:white_check_mark:ft中文网|[:link:Link](https://ybnet.ga/module/ft.module)|财经类
 |:white_check_mark:grammarly|[:link:链接地址](https://ybnet.ga/module/grammarly.module)|外语类
 |:white_check_mark:grow|[:link:链接地址](https://ybnet.ga/module/grow.module)|健康类
 |:white_check_mark:烘焙小屋|[:link:链接地址](https://ybnet.ga/module/hbxw.module)|食谱类
