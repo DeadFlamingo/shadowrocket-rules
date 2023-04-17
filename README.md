@@ -406,7 +406,7 @@
 
 
 ### Special thanks to：
-#### Rating is not in a particular order, if there are any omissions, please remind to add
+#### Rating is not in a particular order
 
 * [@ddgksf2013](https://github.com/ddgksf2013)
 
